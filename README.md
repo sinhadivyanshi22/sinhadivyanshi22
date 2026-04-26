@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 - Designed to promote waste segregation and recycling awareness
 - Responsive UI with interactive features
 
-👉 Add your GitHub repo link here
+👉 [Add your GitHub repo link here](https://github.com/sinhadivyanshi22/Plastic-Management)
 
 ---
 
