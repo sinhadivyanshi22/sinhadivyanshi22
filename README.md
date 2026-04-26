@@ -18,15 +18,7 @@
 
 ---
 
-## 🚀 Projects
-### 🔹 Plastic Waste Management System
-- Built using **HTML, CSS, JavaScript**
-- Designed to promote waste segregation and recycling awareness
-- Responsive UI with interactive features
 
-👉 [Click here to view](https://github.com/sinhadivyanshi22/Plastic-Management)
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
