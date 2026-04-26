@@ -48,10 +48,6 @@
 <a href="mailto:sinhadivyanshi2205@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
 </a>
-
-<a href="https://www.instagram.com/divyn.sinha/">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge"/>
-</a>
 </p>
 
 ---
