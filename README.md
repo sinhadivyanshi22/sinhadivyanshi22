@@ -24,7 +24,7 @@
 - Designed to promote waste segregation and recycling awareness
 - Responsive UI with interactive features
 
-👉 [Add your GitHub repo link here](https://github.com/sinhadivyanshi22/Plastic-Management)
+👉 [Click here to view](https://github.com/sinhadivyanshi22/Plastic-Management)
 
 ---
 
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:sinhadivyanshi2205@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
 </a>
 </p>
