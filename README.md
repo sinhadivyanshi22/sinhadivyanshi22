@@ -27,11 +27,9 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
 ---
