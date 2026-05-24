@@ -19,7 +19,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -27,9 +27,11 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+
 </p>
 
 ---
@@ -37,7 +39,9 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinhadivyanshi22&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=sinhadivyanshi22&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -82,7 +86,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ## ✨ Quote I Believe In
 
-> *“Consistency beats motivation.”*
+> *"Consistency beats motivation."*
 
 ---
 
