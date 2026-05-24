@@ -4,14 +4,19 @@
 B.Tech CSE (AI) Student | Aspiring Software Developer
 </h3>
 
+<p align="center">
+🚀 Passionate about Full Stack Development | DSA Enthusiast | Java Developer
+</p>
+
 ---
 
 ## 🧠 About Me
 
 - 🎓 Pre-final year student at **GL Bajaj Group of Institutions**
-- 💻 Currently working on **Web Development (Frontend + Backend Basics)**
-- 🌱 Learning **React, Backend APIs, and improving DSA**
-- 🚀 Passionate about building projects and improving problem-solving skills
+- 💻 Currently learning and building projects in **Web Development**
+- 🌱 Exploring **React, Backend APIs, and System Design**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Passionate about creating impactful and user-friendly applications
 - ⚡ Fun fact: *I debug more than I code... and that’s where real learning happens 😄*
 
 ---
@@ -19,7 +24,9 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 💻 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,mysql,git,github,vscode"/>
+
 </p>
 
 ---
@@ -27,9 +34,11 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 </p>
 
 ---
@@ -38,9 +47,28 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sinhadivyanshi22&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sinhadivyanshi22&theme=tokyonight&hide_border=true" />
 
 </p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinhadivyanshi22&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🎮 Tic Tac Toe Game (Java)
+- Console-based Tic Tac Toe game using Java
+- Implemented win/draw logic and input validation
+- Demonstrates Java fundamentals and game logic
 
 ---
 
@@ -64,30 +92,29 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ---
 
-## 🚀 Projects
-
-### 🎮 Tic Tac Toe Game (Java)
-- Console-based Tic Tac Toe game using Java
-- Implemented win/draw logic and input validation
-- Demonstrates Java fundamentals and game logic
-
----
-
 ## 🎯 Goals
 
 - 🚀 Crack **Top Product-Based Companies (15+ LPA)**
 - 💻 Become a strong **Full Stack Developer**
 - 🧠 Master **DSA + System Design**
 - 📚 Build impactful real-world projects
+- 🌟 Maintain a strong and consistent GitHub profile
 
 ---
 
 ## ✨ Quote I Believe In
 
+<p align="center">
+
 > *"Consistency beats motivation."*
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile!  
+💙 Have a great day!
+
 </p>
