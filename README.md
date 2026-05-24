@@ -20,19 +20,13 @@
 
 
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=sinhadivyanshi22&theme=tokyonight"/>
-</p>
+## 📈 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight)
 
-## 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight"/>
-</p>
+## 📊 Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
