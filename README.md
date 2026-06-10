@@ -63,15 +63,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ---
 
-## 🚀 Projects
-
-### 🎮 Tic Tac Toe Game (Java)
-- Console-based Tic Tac Toe game using Java
-- Implemented win/draw logic and input validation
-- Demonstrates Java fundamentals and game logic
-
----
-
 ## 🌐 Connect With Me
 
 
