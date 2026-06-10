@@ -14,7 +14,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 - 🎓 Final year student at **GL Bajaj Group of Institutions**
 - 💻 Currently learning and building projects in **Web Development**
-- 🌱 Exploring **React, Backend APIs, and System Design**
+- 🌱 Learning **React, APIs, and System Design**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🚀 Passionate about creating impactful and user-friendly applications
 - ⚡ Fun fact: *I debug more than I code... and that’s where real learning happens 😄*
@@ -97,7 +97,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 ## 🎯 Goals
 
 - 🚀 Crack **Top Product-Based Companies (15+ LPA)**
-- 💻 Become a strong **Full Stack Developer**
+- 💻 Become a **Software Developer**
 - 🧠 Master **DSA + System Design**
 - 📚 Build impactful real-world projects
 - 🌟 Maintain a strong and consistent GitHub profile
