@@ -12,7 +12,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ## 🧠 About Me
 
-- 🎓 Pre-final year student at **GL Bajaj Group of Institutions**
+- 🎓 Final year student at **GL Bajaj Group of Institutions**
 - 💻 Currently learning and building projects in **Web Development**
 - 🌱 Exploring **React, Backend APIs, and System Design**
 - 🧠 Practicing **Data Structures & Algorithms**
