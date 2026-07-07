@@ -115,6 +115,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ⭐ Thanks for visiting my profile!  
 💙 Have a great day!
-~ Divyanshi Sinha
+
 
 </p>
