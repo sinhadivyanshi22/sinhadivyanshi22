@@ -9,7 +9,14 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 </p>
 
 ---
+## Profile views:
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=sinhadivyanshi22&abbreviated=true)
+
+</div>
+
+---
 ## 🧠 About Me
 
 - 🎓 Final year student at **GL Bajaj Group of Institutions**
