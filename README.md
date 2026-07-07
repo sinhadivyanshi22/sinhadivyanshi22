@@ -94,7 +94,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ## 🎯 Goals
 
-- 🚀 Crack **Top Product-Based Companies (15+ LPA)**
 - 💻 Become a **Software Developer**
 - 🧠 Master **DSA + System Design**
 - 📚 Build impactful real-world projects
@@ -116,5 +115,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ⭐ Thanks for visiting my profile!  
 💙 Have a great day!
+~ Divyanshi Sinha
 
 </p>
