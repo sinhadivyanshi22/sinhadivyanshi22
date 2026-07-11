@@ -42,9 +42,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinhadivyanshi22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhadivyanshi22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinhadivyanshi22&theme=tokyo-night"/>
 
 </p>
 
@@ -72,6 +70,7 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 ## 🌐 Connect With Me
@@ -109,7 +108,9 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 <p align="center">
 
-> *"Consistency beats motivation."*
+"Discipline is choosing between what you want now and what you want most."
+
+— Abraham Lincoln
 
 </p>
 
@@ -118,7 +119,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 <p align="center">
 
 ⭐ Thanks for visiting my profile!  
-💙 Have a great day!
 
 
 </p>
