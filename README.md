@@ -48,16 +48,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sinhadivyanshi22&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
