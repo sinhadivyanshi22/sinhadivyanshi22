@@ -68,6 +68,10 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 <p align="left">
 
+## 🌐 Connect With Me
+
+<p align="left">
+
 <a href="https://www.linkedin.com/in/divyanshi-sinha-9765022a0/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -76,10 +80,15 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
+<a href="https://www.codechef.com/users/divynshs_022">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 <a href="mailto:sinhadivyanshi2205@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 </p>
 
