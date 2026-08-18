@@ -65,11 +65,6 @@ B.Tech CSE (AI) Student | Aspiring Software Developer
 
 ## 🌐 Connect With Me
 
-
-<p align="left">
-
-## 🌐 Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/divyanshi-sinha-9765022a0/">
